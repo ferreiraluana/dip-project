@@ -10,4 +10,4 @@ Artigo disponível em:
 >> https://github.com/rengotj/cobra_denoising/blob/master/demo.ipynb
 
 Arquivo com a revisão bibliográfica:
->> [https://github.com/ferreiraluana/dip-project/blob/main/_PDI__Report%20(2).pdf](https://github.com/ferreiraluana/dip-project/blob/main/project/reports/dissertation/report1_revisao_bibliografica.pdf)
+>> https://github.com/ferreiraluana/dip-project/blob/main/project/reports/dissertation/report1_revisao_bibliografica.pdf
