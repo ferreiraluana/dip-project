@@ -1,3 +1,3 @@
 # Meetings
 
-Meetings organized by the team
+Encontros organizados pela equipe.
