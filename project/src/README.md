@@ -1,3 +1,3 @@
 # src
 
-Main code of this project.
+Main code of the original implementation of this project.
