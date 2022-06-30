@@ -1,3 +1,3 @@
 # presentations
 
-Slideshow for each activity done, describing it visually.
+Slideshow para cada atividade realizada, descrita visualmente a partir dos relatórios.
