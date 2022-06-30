@@ -1,4 +1,4 @@
-# Reports
+# reports
 
 Detailed description of every activity done through the course of this project.
 
