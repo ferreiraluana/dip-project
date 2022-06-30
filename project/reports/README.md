@@ -1,6 +1,5 @@
 # reports
+Descrição etalhada de cada atividade realizada durante o curso desse projeto.
 
-Detailed description of every activity done through the course of this project.
-
-* Dissertations: reports of each activity one
-* Presentations: slides reporting each activity one
+* Dissertações: relatórios de cada atividade
+* Apresentações: slides reportando cada atividade realizada
