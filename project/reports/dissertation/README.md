@@ -1,7 +1,6 @@
 # dissertation
+Cada fase desse projeto documentada e completamente explicada.
 
-Each phase of this project documented and fully explained.
-
-* Report 1: Revisão bibliográfica
-* Report 2: Reprodução dos resultados
-* Report 3: Expansão do trabalho
+* Relatório 1: Revisão bibliográfica
+* Relatório 2: Reprodução dos resultados
+* Relatório 3: Expansão do trabalho
